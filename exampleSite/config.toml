@@ -1,4 +1,4 @@
-baseurl = "https://matripdiary.netlify.com"
+baseurl = "https://matripdiary.netlify.app"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
